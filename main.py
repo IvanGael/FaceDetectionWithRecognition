@@ -6,8 +6,7 @@ face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_fronta
 
 # List of users with IDs and associated images
 users = [
-    {"id": "Jade", "image_path": "image.jpg"},
-    {"id": "Louena", "image_path": "image2.jpg"}
+    {"id": "Jade", "image_path": "image.jpg"}
 ]
 
 threshold = 100
